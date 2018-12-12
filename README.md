@@ -1,2 +1,2 @@
 # BumblebeeSwitch
-Bash to change the power state of a Nvidia Card which is being controlled by Bumblebee
+Simple bash scritp to change the power state of a Nvidia Card controlled by [Bumblebee](https://github.com/Bumblebee-Project/Bumblebee).
