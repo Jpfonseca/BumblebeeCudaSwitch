@@ -3,8 +3,6 @@ Simple bash script to change the power state of a Nvidia Card controlled by [Bum
 
 It can be useful when you're trying to use [CUDA](https://developer.nvidia.com/cuda-zone), but your graphic card is being controlled by bbswitch.
 
-### Warning 
-This script only works if you're using Bumblebee to control your graphic card.
 
 ## How to use
 
@@ -16,3 +14,8 @@ This script only works if you're using Bumblebee to control your graphic card.
 
 3. Run the file : `sudo ./bumblebeeswitch.sh [option]`
 
+
+
+
+### Warning 
+This script only works if you're using Bumblebee to control your graphic card.
